@@ -1,0 +1,26 @@
+{
+	"name": "bevry-echo",
+	"version": "1.0.0",
+	"description": "bin executable for testing which outputs the arguments",
+	"main": "index.js",
+	"bin": "index.js",
+	"scripts": {
+		"test": "index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bevry/echo.git"
+	},
+	"keywords": [
+		"bin"
+	],
+	"author": "Benjamin Lupton <b@lupton.cc> (https://balupton.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bevry/echo/issues"
+	},
+	"homepage": "https://github.com/bevry/echo#readme",
+	"devDependencies": {
+		"@types/node": "^12.7.5"
+	}
+}
