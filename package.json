@@ -1,8 +1,7 @@
 {
 	"name": "bevry-echo",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "bin executable for testing which outputs the arguments",
-	"main": "index.js",
 	"bin": "index.js",
 	"scripts": {
 		"test": "index.js"
