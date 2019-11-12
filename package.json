@@ -5,7 +5,7 @@
   "bin": "bin.js",
   "main": "index.js",
   "scripts": {
-    "test": "index.js"
+    "test": "bin.js"
   },
   "repository": {
     "type": "git",
