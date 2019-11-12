@@ -1,2 +1,4 @@
-#!/usr/bin/env node
-console.log(require('util').inspect(process.argv, { colors: true }))
+"use strict";
+module.exports = function(args) {
+  console.log(require("util").inspect(args, { colors: true }));
+};
